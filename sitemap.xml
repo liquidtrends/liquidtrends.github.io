@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ryanjanvier.com/posts/hey-welcome/</loc>
+    <loc>https://ryanjanvier.com/posts/hey-welcome/</loc>
     <lastmod>2019-05-08T16:10:54-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ryanjanvier.com/categories/</loc>
+    <loc>https://ryanjanvier.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ryanjanvier.com/posts/</loc>
-    <lastmod>2019-05-08T16:10:54-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ryanjanvier.com/</loc>
+    <loc>https://ryanjanvier.com/posts/</loc>
     <lastmod>2019-05-08T16:10:54-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ryanjanvier.com/tags/</loc>
+    <loc>https://ryanjanvier.com/</loc>
+    <lastmod>2019-05-08T16:10:54-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanjanvier.com/tags/</loc>
     <priority>0</priority>
   </url>
   
