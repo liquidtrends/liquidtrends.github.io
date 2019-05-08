@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ryan Janvier</title>
-    <link>http://liquidtrends.github.io/posts/</link>
+    <link>https://liquidtrends.github.io/posts/</link>
     <description>Recent content in Posts on Ryan Janvier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 Copyright Text</copyright>
     <lastBuildDate>Tue, 07 May 2019 13:26:41 -0600</lastBuildDate>
     
-	<atom:link href="http://liquidtrends.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liquidtrends.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building a static website with Hugo</title>
-      <link>http://liquidtrends.github.io/posts/hugo-site-tutorial/</link>
+      <link>https://liquidtrends.github.io/posts/hugo-site-tutorial/</link>
       <pubDate>Tue, 07 May 2019 13:26:41 -0600</pubDate>
       
-      <guid>http://liquidtrends.github.io/posts/hugo-site-tutorial/</guid>
+      <guid>https://liquidtrends.github.io/posts/hugo-site-tutorial/</guid>
       <description>This is a piece of code in a block  </description>
     </item>
     
