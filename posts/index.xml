@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ryan Janvier</title>
-    <link>https://liquidtrends.github.io/posts/</link>
+    <link>//liquidtrends.github.io/posts/</link>
     <description>Recent content in Posts on Ryan Janvier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 Copyright Text</copyright>
     <lastBuildDate>Wed, 08 May 2019 16:10:54 -0600</lastBuildDate>
     
-	<atom:link href="https://liquidtrends.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//liquidtrends.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hey, I haven&#39;t put anything here yet. Sorry!</title>
-      <link>https://liquidtrends.github.io/posts/hey-welcome/</link>
+      <link>//liquidtrends.github.io/posts/hey-welcome/</link>
       <pubDate>Wed, 08 May 2019 16:10:54 -0600</pubDate>
       
-      <guid>https://liquidtrends.github.io/posts/hey-welcome/</guid>
+      <guid>//liquidtrends.github.io/posts/hey-welcome/</guid>
       <description> Hopefully I find some more time to write. </description>
     </item>
     
