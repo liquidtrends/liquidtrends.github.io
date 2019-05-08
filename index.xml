@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Janvier</title>
+    <link>http://liquidtrends.github.io/</link>
+    <description>Recent content on Ryan Janvier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019 Copyright Text</copyright>
+    <lastBuildDate>Tue, 07 May 2019 13:26:41 -0600</lastBuildDate>
+    
+	<atom:link href="http://liquidtrends.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a static website with Hugo</title>
+      <link>http://liquidtrends.github.io/posts/hugo-site-tutorial/</link>
+      <pubDate>Tue, 07 May 2019 13:26:41 -0600</pubDate>
+      
+      <guid>http://liquidtrends.github.io/posts/hugo-site-tutorial/</guid>
+      <description>This is a piece of code in a block  </description>
+    </item>
+    
+  </channel>
+</rss>
